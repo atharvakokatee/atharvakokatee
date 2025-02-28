@@ -23,9 +23,9 @@ I'm a software engineer with a passion for building efficient systems and explor
 - **Expertise:** Document AI | Scalable Systems | Recommender Engines  
 
 ## **✈️ Travel & Exploration**  
-**Japan** 🇯🇵 — Innovation, tradition, and attention to detail.  
-**Vietnam** 🇻🇳 — Dynamic landscapes and rich cultural depth.  
-**China (Upcoming)** 🇨🇳 — A new perspective on history and technology.  
+**Japan** — Innovation, tradition, and attention to detail.  
+**Vietnam** — Dynamic landscapes and rich cultural depth.  
+**China (Upcoming)** — A new perspective on history and technology.  
 
 ## **🔗 Connect**  
 💼 [LinkedIn](https://www.linkedin.com/in/atharvakokate/)  
