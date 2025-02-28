@@ -15,30 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 **Software Engineer** — Precision in logic, clarity in execution.  
-🌍 **Traveler** — A modern vagabond, collecting experiences, not possessions.  
+I'm a software engineer with a passion for building efficient systems and exploring new places to gain fresh perspectives.
 
----
-
-### **🛠 Technology & Craft**  
+### **🛠 Technology**  
 - **Languages:** Java | Python | JavaScript  
 - **Frameworks:** Spring Boot | React | Node.js  
 - **Expertise:** Document AI | Scalable Systems | Recommender Engines  
 
----
-
-### **✈️ Paths Explored**  
-**Japan** 🇯🇵 — Precision. Ritual. The art of refinement.  
-**Vietnam** 🇻🇳 — Unfiltered experiences, uncharted paths.  
-**China (Upcoming)** 🇨🇳 — The next lesson in movement and adaptation.  
-
----
-
-### **📂 Notable Work**  
-🔹 **Hybrid Recommender System** — High-performance, data-driven decision-making.  
-🔹 **dbTextract** — AI-powered document processing at scale.  
-
----
+## **✈️ Travel & Exploration**  
+**Japan** 🇯🇵 — Innovation, tradition, and attention to detail.  
+**Vietnam** 🇻🇳 — Dynamic landscapes and rich cultural depth.  
+**China (Upcoming)** 🇨🇳 — A new perspective on history and technology.  
 
 ## **🔗 Connect**  
 💼 [LinkedIn](https://www.linkedin.com/in/atharvakokate/)  
