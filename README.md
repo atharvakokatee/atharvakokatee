@@ -14,3 +14,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# **"Step by step, walk the thousand-mile road."**  
+
+💻 **Software Engineer** — Precision in logic, clarity in execution.  
+🌍 **Traveler** — A modern vagabond, collecting experiences, not possessions.  
+
+---
+
+## **🛠 Technology & Craft**  
+- **Languages:** Java | Python | JavaScript  
+- **Frameworks:** Spring Boot | React | Node.js  
+- **Expertise:** Document AI | Scalable Systems | Recommender Engines  
+
+---
+
+## **✈️ Paths Explored**  
+**Japan** 🇯🇵 — Precision. Ritual. The art of refinement.  
+**Vietnam** 🇻🇳 — Unfiltered experiences, uncharted paths.  
+**China (Upcoming)** 🇨🇳 — The next lesson in movement and adaptation.  
+
+---
+
+## **📂 Notable Work**  
+🔹 **Hybrid Recommender System** — High-performance, data-driven decision-making.  
+🔹 **dbTextract** — AI-powered document processing at scale.  
+
+Results speak louder than complexity.  
+
+---
+
+## **🔗 Connect**  
+💼 [LinkedIn](https://www.linkedin.com/in/atharvakokate/)  
+📍 [Instagram](https://www.instagram.com/poteto.furaizu) *(A collection of moments, not just images.)*  
