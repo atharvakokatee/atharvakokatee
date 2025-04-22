@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Atharva — Software Engineer | Minimalist Backpacker
+# 👋 Hi, I'm Atharva — Software Engineer | Backpacker
 
 I’m a Software Engineer with a passion for building scalable systems and for exploring the world with nothing but a 7kg backpack. Whether I’m designing high-performance pipelines or catching the wrong train in a new country, I believe in simplicity, intention, and impact.
 
@@ -23,22 +23,26 @@ I’m a Software Engineer with a passion for building scalable systems and for e
 
 ## 🌍 Backpacking
 
-Backpacking the world with just **7kg** of gear — minimalist, intentional, and curiosity-led.  
-Travel keeps me adaptable, calm under pressure, and always learning — just like engineering.
+Backpacking the world with just **7kg** of gear. Travel keeps me adaptable, calm under pressure, and always learning.
 
 > “I don’t always know where I’m going next — sometimes Skyscanner decides. But I always end up where I’m meant to be.”
 
-- ✈️ ENFP personality — spontaneous, grounded, and observant
-- 🌿 Solo traveler by choice — I value peace, independence, and real connections
-- 📷 I document stories and moments
+- ✈️ Since a lot of people are crazy about MBTI type, I am an ENFP.
+- 🌿 Why do I travel solo? I value peace and prefer following my own direction.
+- 📷 I try to document stories and moments.
 
 ---
 
 ## ✈️ Countries I've Explored
 
-<!-- Travel Grid Section with 4:3 Aspect Ratio (H:W) -->
 <table>
   <tr>
+    <td align="center" width="180">
+      <a href="https://photos.app.goo.gl/Wgmx3ZXvrcz3Aggx5">
+        <img src="assets/India_Banner.jpg" width="180" height="240"><br>
+        <strong><img src="assets/IN@2x.png?raw=true" width="21" height="15"> India</strong>
+      </a>
+    </td>
     <td align="center" width="180">
       <a href="https://your-album-link/vietnam">
         <img src="assets/Vietnam_Banner.jpg" width="180" height="240"><br>
@@ -57,6 +61,8 @@ Travel keeps me adaptable, calm under pressure, and always learning — just lik
         <strong><img src="assets/CN@2x.png?raw=true" width="21" height="15"> China</strong>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="180">
       <a href="https://photos.app.goo.gl/Wgmx3ZXvrcz3Aggx5">
         <img src="assets/South_Korea_Banner.jpg" width="180" height="240"><br>
