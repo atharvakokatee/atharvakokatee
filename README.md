@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Atharva — Software Engineer | Backpacker
+# 👋 Hi, I'm Atharva Kokate
 
 I’m a Software Engineer with a passion for building scalable systems and for exploring the world with nothing but a 7kg backpack. Whether I’m designing high-performance pipelines or catching the wrong train in a new country, I believe in simplicity, intention, and impact.
 
