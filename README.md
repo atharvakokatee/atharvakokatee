@@ -39,29 +39,27 @@ Travel keeps me adaptable, calm under pressure, and always learning — just lik
 <!-- Travel Grid Section with 4:3 Aspect Ratio (H:W) -->
 <table>
   <tr>
-    <td align="center" width="225">
+    <td align="center" width="150">
       <a href="https://your-album-link/vietnam">
-        <img src="assets/Vietnam_Banner.jpg" width="225" height="300"><br>
+        <img src="assets/Vietnam_Banner.jpg" width="150" height="200"><br>
         <strong><img src="assets/VN@2x.png?raw=true" width="21" height="15"> Vietnam</strong>
       </a>
     </td>
-    <td align="center" width="225">
+    <td align="center" width="150">
       <a href="https://your-album-link/japan">
-        <img src="assets/Japan_Banner.jpg" width="225" height="300"><br>
+        <img src="assets/Japan_Banner.jpg" width="150" height="200"><br>
         <strong><img src="assets/JP@2x.png?raw=true" width="21" height="15"> Japan</strong>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="225">
+    <td align="center" width="150">
       <a href="https://photos.app.goo.gl/ddaLMhaGtfV8GDQeA">
-        <img src="assets/China_Banner.jpg" width="225" height="300"><br>
+        <img src="assets/China_Banner.jpg" width="150" height="200"><br>
         <strong><img src="assets/CN@2x.png?raw=true" width="21" height="15"> China</strong>
       </a>
     </td>
-    <td align="center" width="225">
+    <td align="center" width="150">
       <a href="https://photos.app.goo.gl/Wgmx3ZXvrcz3Aggx5">
-        <img src="assets/South_Korea_Banner.jpg" width="225" height="300"><br>
+        <img src="assets/South_Korea_Banner.jpg" width="150" height="200"><br>
         <strong><img src="assets/KR@2x.png?raw=true" width="21" height="15"> South Korea</strong>
       </a>
     </td>
