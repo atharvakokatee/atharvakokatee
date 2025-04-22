@@ -23,17 +23,16 @@ I’m a Software Engineer with a passion for building scalable systems and for e
 
 ## 🌍 Backpacking
 
-Backpacking the world with just **7kg** of gear. Travel keeps me adaptable, calm under pressure, and always learning.
+Backpacking the world with just 7kg of gear.  
+Travel keeps me adaptable, calm under pressure, and always learning.  
 
-> “I don’t always know where I’m going next — sometimes Skyscanner decides. But I always end up where I’m meant to be.”
-
-- ✈️ Since a lot of people are crazy about MBTI type, I am an ENFP.
-- 🌿 Why do I travel solo? I value peace and prefer following my own direction.
-- 📷 I try to document stories and moments.
+- ✈️ ENFP energy, if you’re into that sort of thing  
+- 🌿 Why solo? I crave peace and prefer following my own direction  
+- 📷 I try to document stories and moments, sometimes on the move, sometimes in stillness 
 
 ---
 
-## ✈️ Countries I've Explored
+## ✈️ Travel Stories
 
 <table>
   <tr>
