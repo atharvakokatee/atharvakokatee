@@ -7,7 +7,6 @@ Java • Python • Spring Boot • FastAPI
 Kafka • PostgreSQL • Redis • Pub/Sub  
 GCP • Docker • Kubernetes • Terraform  
 
-## 📫 Get in touch
-📧 atharva.kokatee@gmail.com  
+## 📫 Get in touch 
 🔗 LinkedIn: https://linkedin.com/in/atharvakokate  
 
